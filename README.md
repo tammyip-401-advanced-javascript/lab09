@@ -33,6 +33,7 @@ Tests
 Testing command: `npm test` from root directory
 
 UML
-https://docs.google.com/spreadsheets/d/1Yzy2D7pHH9ekdRy0s2IXO6LNuaCkgXoCAdNFE0PxIfc/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1KaQTLYUp3S6H-XJKzmouByOhWZLvDcu4D_tG3hJ36Uo/edit?usp=sharing
+
 
 
